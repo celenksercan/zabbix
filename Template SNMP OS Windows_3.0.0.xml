@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
+
+<version>3.0</version>
+    <date>2016-02-21T14:12:32Z</date>
+    <groups>
+        <group>
+            <name>Templates</name>
+        </group>
+    </groups>
