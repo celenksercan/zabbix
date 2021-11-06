@@ -33,6 +33,15 @@
                     <name>Template SNMP Generic</name>
                 </template>
                 <template>
+
+   <name>Template SNMP Processors</name>
+                </template>
+            </templates>
+            <screens/>
+        </template>
+    </templates>
+</zabbix_export>
+
                     <name>Template SNMP Interfaces</name>
                 </template>
                 <template>
