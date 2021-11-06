@@ -8,3 +8,14 @@
             <name>Templates</name>
         </group>
     </groups>
+
+ <templates>
+        <template>
+            <template>Template SNMP OS Windows</template>
+            <name>Template SNMP OS Windows</name>
+            <description/>
+            <groups>
+                <group>
+                    <name>Templates</name>
+                </group>
+            </groups>
