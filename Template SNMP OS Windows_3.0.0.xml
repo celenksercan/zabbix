@@ -25,3 +25,14 @@
             <discovery_rules/>
             <macros/>
             <templates>
+
+   <template>
+                    <name>Template SNMP Disks</name>
+                </template>
+                <template>
+                    <name>Template SNMP Generic</name>
+                </template>
+                <template>
+                    <name>Template SNMP Interfaces</name>
+                </template>
+                <template>
